@@ -6,7 +6,6 @@
 # Work Experience
 
 ## IT contractor (2014 - now)
-### other companys
 
 Open for new job
 
@@ -94,6 +93,8 @@ Open for new job
 	- Arduino/ATmega
 	- HTML/CSS
 	- Javascript
+	- SEO
+	- UIX
 	- Graphics
 	- Video (post processing)
 
