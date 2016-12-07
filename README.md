@@ -45,6 +45,7 @@ Open for new job
 *Skills:*
 
 - PHP
+- Python
 - MySQL
 - HTML/CSS
 - jQuery/Javascript
