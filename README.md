@@ -1,11 +1,17 @@
 # City: Manchester (M8)
 
 	Email: xvoland@gmail.com
-	Phone: +447466837279
+	Phone: +447404966740
 
 # Work Experience
 
-## IT consultant
+## IT contractor (2014 - now)
+### other companys
+
+Open for new job
+
+
+## IT consultant/Contractor
 ### Wicked Pleasure Ltd. - Manchester (Oct. 2014 - Dec. 2014)
 
 *Responsibilities:*
@@ -82,17 +88,20 @@
 - SASS
 
 ## Additional Information:
-**Link to last job:** [http://goo.gl/TpCE1Z](http://goo.gl/TpCE1Z)
+**My Youtube channel:** [https://youtube.com/xVoLAnD]( https://youtube.com/xVoLAnD)
 	
+	- Python
+	- Arduino/ATmega
 	- HTML/CSS
 	- Javascript
 	- Graphics
-	- Video (post processing
+	- Video (post processing)
 
-**Work permit:** UK
+**Work permit:** UK (United Kingdom)
 
 **Github:** [https://github.com/xvoland](https://github.com/xvoland)
 
 	I’m looking for a remote or partial-remote job.
-	I learn English (conversational)
+
+	English: conversational
 	My native languages: Ukrainian, Russian
