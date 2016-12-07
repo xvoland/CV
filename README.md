@@ -11,7 +11,7 @@ Open for new job
 
 
 ## IT consultant/Contractor
-### Wicked Pleasure Ltd. - Manchester (Oct. 2014 - Dec. 2014)
+### Wicked Pleasure Ltd. - Manchester, UK (Oct. 2014 - Dec. 2014)
 
 *Responsibilities:*
 
@@ -55,7 +55,7 @@ Open for new job
 - Photoshop
 
 ## QA Engineer (whitebox)
-### oDesk.com - USA (2010 - 2013)
+### oDesk.com - Redwood, USA (2010 - 2013)
 
 *Responsibilities:*
 
